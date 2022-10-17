@@ -1,0 +1,5 @@
+com\skooch\config\SpringMvcConfig.class
+com\skooch\domain\User.class
+com\skooch\config\ServletContainerInitConfig.class
+com\skooch\controller\UserController.class
+com\skooch\domain\Address.class

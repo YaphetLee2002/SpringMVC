@@ -1,0 +1,5 @@
+com\skooch\domain\Book.class
+com\skooch\config\SpringMvcConfig.class
+com\skooch\config\SpringMvcSupport.class
+com\skooch\config\ServletContainerInitConfig.class
+com\skooch\controller\BookController.class
